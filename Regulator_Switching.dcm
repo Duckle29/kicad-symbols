@@ -3678,6 +3678,12 @@ K dc-dc recom Step-Down DC/DC-Regulator
 F https://www.recom-power.com/pdf/Innoline/R-78Sxx-0.1.pdf
 $ENDCMP
 #
+$CMP RPM5.0-3.0
+D 3A Step-Down DC/DC-Regulator, 3-17V input, 5V default, 0.9-6v adjustable Output Voltage -40°C to +100°C, LGA25
+K dc-dc recom Step-Down DC/DC-Regulator
+F https://www.recom-power.com/pdf/Innoline/RPM-3.0.pdf
+$ENDCMP
+#
 $CMP SC33063AD
 D 1.5A, step-up/down/inverting switching regulator, 3-40V Vin, 100kHz, SO-8
 K smps buck boost inverting
