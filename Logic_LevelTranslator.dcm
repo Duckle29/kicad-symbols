@@ -18,6 +18,30 @@ K Level shifter translator bidirectional
 F http://www.onsemi.com/pub/Collateral/FXMA108-D.pdf
 $ENDCMP
 #
+$CMP NTS0101GF
+D 1-Bit Unidirectional Voltage-Level Translator, SOT-891
+K Noninverting
+F https://www.nxp.com/docs/en/data-sheet/NTS0101.pdf
+$ENDCMP
+#
+$CMP NTS0101GM
+D 1-Bit Unidirectional Voltage-Level Translator, SOT-886
+K Noninverting
+F https://www.nxp.com/docs/en/data-sheet/NTS0101.pdf
+$ENDCMP
+#
+$CMP NTS0101GS
+D 1-Bit Unidirectional Voltage-Level Translator, SOT-1202
+K Noninverting
+F https://www.nxp.com/docs/en/data-sheet/NTS0101.pdf
+$ENDCMP
+#
+$CMP NTS0101GW
+D 1-Bit Unidirectional Voltage-Level Translator, SOT-363
+K Noninverting
+F https://www.nxp.com/docs/en/data-sheet/NTS0101.pdf
+$ENDCMP
+#
 $CMP NCN4555MN
 D SIM Card Power Supply and Level Shifter, QFN-16
 K SIM Card Level Shifter
